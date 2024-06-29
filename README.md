@@ -1,8 +1,4 @@
-# Tarea1_DS
-
-# Paul le toca hacer la parte 1
-
-# Identificación de problema 
+# Tarea1_Data Science Fundamentals
 
 ## Introducción al proyecto
 
@@ -10,9 +6,10 @@ En el panorama altamente competitivo del sector financiero, resulta fundamental 
 
 ## Presentación del equipo
 
-- **Miembro 1**: Descripción breve del rol y contribuciones.
+- **Miembro 1**: Paul Rivera
 - **Miembro 2**: Suzeth Gonzales
-- **Miembro 3**: Jean Taipe.
+- **Miembro 3**: Jean Taipe
+- **Miembro 4**: Edwin Garcia
 
 ## Objetivo del proyecto
 
