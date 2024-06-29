@@ -1,8 +1,10 @@
-## I. Elección del Problema
+# I. Elección del Problema
+## a. Industria
 La industria elegida es la de Finanzas
-Aplicación: Modelo de detección de compra de deuda a nuestros clientes
+* Aplicación: Modelo de detección de compra de deuda a nuestros clientes
+* Uso de algoritmos de machine learning para detección de compra de deuda a nuestros clientes
 
-# Ejemplo Completo de Tablas e Imágenes Personalizadas en Markdown
+## b. Categoría y caso de uso correspondiente
 
 <table>
   <tr>
@@ -49,15 +51,6 @@ Aplicación: Modelo de detección de compra de deuda a nuestros clientes
 ## Imagen Personalizada
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" width="200" height="200">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="width: 200px; height: 200px; border: 2px solid black;">
 </p>
 
-# Ejemplo de Imagen Personalizada en Markdown
-
-<!-- Imagen con tamaño ajustado y alineada al centro -->
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" width="200" height="200">
-</p>
-
-<!-- Imagen con un tamaño específico y borde -->
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="width: 150px; height: 150px; border: 2px solid black;">
