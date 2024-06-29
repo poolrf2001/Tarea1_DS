@@ -16,39 +16,27 @@ La industria elegida es la de Finanzas
   </tr>
   <tr>
     <td>Detección de Migración de clientes</td>
-    <td>Sistema de detección</td>
+    <td>Predicción de migración de buenos clientes debido a compra de deuda por competidores</td>
     <td>Ofertas más atractivas: Ampliación de créditos y/o Reducción de tasa de interés</td>
     <td>Se irá con la competencia o no</td>
     <td>Mayor fidelización de clientes, menor reducción de clientes.</td>
   </tr>
-  <tr>
-    <td rowspan="4">Predecir el comportamiento futuro de los clientes (la migración)</td>
-    <td>Detectar/Identificar clientes buenos propensos a cambiar sus productos/servicios financieros a otra entidad.</td>
-    <td></td>
-    <td>Precisión del modelo: Que tan exacto es el modelo para identificar a los clientes que migrarán</td>
-    <td>Tasa de cuantos clientes migran</td>
-  </tr>
-  <tr>
-    <td>Buenos: 12 meses con pago puntual</td>
-    <td></td>
-    <td>Que tan convencido se encuentra el cliente con las ofertas otorgadas</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>No créditos castigados</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Clientes exclusivos (1 entidad financiera: nosotros)</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
-## Imagen Personalizada
+### Soporte
+
+1. Predecir el comportamiento futuro de los clientes (la migración)
+2. Detectar/Identificar clientes buenos propensos a cambiar sus productos/servicios financieros a otra entidad.
+3. Buenos: 12 meses con pago puntual
+4. No creditos castigados
+5. Clientes exclusivos (1 entidad financiera: nosotros)
+6. Precisión del modelo: Que tan exacto es el modelo para identificar a los clientes que migrarán
+7. Que tan convencido  se encuentra el cliente con las ofertas otorgadas
+8. Tasa de cuantos clientes migran
+
+****
+
+
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="width: 200px; height: 200px; border: 2px solid black;">
