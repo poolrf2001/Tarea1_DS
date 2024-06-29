@@ -12,7 +12,13 @@
 | Nuevo modelo de ML reduce la tasa de migración en | 2.8%   |
 
 **Falsos Positivos:**	
-- ‣ Palancas costosas aplicadas a usuarios que no iban a migrar a otra entidad financiera.	
-- Ejemplo: 
-- 200 usuarios reciben 1 pp de descuento (tasa nominal), solo 160 iban a migrar.	
-- ‣ Costo: 40 × (1%)*20000= $8 000 en falsos positivos.	
+- Palancas costosas aplicadas a usuarios que no iban a migrar a otra entidad financiera.
+  Ejemplo: 200 usuarios reciben 1% de descuento (tasa nominal), solo 160 iban a migrar.
+
+- Costo: 40 × (1%) x 20000= $8 000 en falsos positivos.
+
+**Falsos Negativos:**
+- Costo de oportunidad por predicciones erróneas. 
+  Ejemplo: Usuarios que migraron a la competencia y no fueron detectados: 4.	
+
+- Costo: 4 × 3200 = $12800 en falsos negativos.	
