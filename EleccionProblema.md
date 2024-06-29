@@ -4,21 +4,6 @@ Aplicación: Modelo de detección de compra de deuda a nuestros clientes
 
 # Ejemplo Completo de Tablas e Imágenes Personalizadas en Markdown
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: left;
-  }
-  th {
-    background-color: #f2f2f2;
-  }
-</style>
-
 <table>
   <tr>
     <th>Categoría</th>
