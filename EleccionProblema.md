@@ -19,8 +19,6 @@ Aplicación: Modelo de detección de compra de deuda a nuestros clientes
   }
 </style>
 
-## Tabla Personalizada
-
 <table>
   <tr>
     <th>Categoría</th>
