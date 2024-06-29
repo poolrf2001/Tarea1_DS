@@ -1,5 +1,5 @@
 # -Analisis del problema
 
-# Las deciciones clave, métricas y palancas
+<small>Las deciciones clave, métricas y palancas.</small> 
 
 
