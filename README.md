@@ -14,3 +14,20 @@ En el panorama altamente competitivo del sector financiero, resulta fundamental 
 ## Objetivo del proyecto
 
 Desarrollar e implementar un modelo de ML que pronostique a los clientes que tengan probabilidades de ser objetivos de compra de deuda por parte de las entidades financieras competidoras.
+
+## Estructura de las carpetas
+
+mi-proyecto/
+- README.md
+- Archivos/
+  - introduccion.md
+  - Analisis.md
+  - Problema.md
+
+
+
+## Enlaces a los archivos Markdown
+
+- [Introducción](Archivos/introduccion.md)
+- [Analisis](Archivos/Analisis.md)
+- [Problema](Archivos/Problema.md)
