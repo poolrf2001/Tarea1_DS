@@ -11,4 +11,6 @@ Aplicación: Modelo de detección de compra de deuda a nuestros clientes
 |                                           | Buenos: 12 meses con pago puntual            |                                             | Que tan convencido se encuentra el cliente con las ofertas otorgadas |                                                                     |
 |                                           | No créditos castigados                       |                                             |                                            |                                                                     |
 |                                           | Clientes exclusivos (1 entidad financiera: nosotros) |                                             |                                            |                                                                     |
+## Imagen de Ejemplo
 
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
