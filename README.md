@@ -8,4 +8,4 @@
 
 - **Miembro 1**: Descripción breve del rol y contribuciones.
 - **Miembro 2**: Suzeth Gonzales
-- **Miembro 3**: Descripción breve del rol y contribuciones.
+- **Miembro 3**: Jean Taipe.
