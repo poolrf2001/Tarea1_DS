@@ -3,7 +3,3 @@
 # Paul le toca hacer la parte 1
 
 # Identificación de problema 
-
-
-# realidad problemática 
-
