@@ -10,3 +10,9 @@
 | Base de usuarios activos | 200    |
 | Tasa de migración a otras entidades | 6%   |
 | Nuevo modelo de ML reduce la tasa de migración en | 2.8%   |
+
+**Falsos Positivos:**	
+‣ Palancas costosas aplicadas a usuarios que no iban a migrar a otra entidad financiera.	
+Ejemplo: 
+200 usuarios reciben 1 pp de descuento (tasa nominal), solo 160 iban a migrar.	
+‣ Costo: 40 × (1%)*20000= $8 000 en falsos positivos.	
