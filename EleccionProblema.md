@@ -29,6 +29,6 @@ Son considerados buenos clientes aquellos que:
 
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo de GitHub" style="width: 200px; height: 200px; border: 2px solid black;">
+  <img src="https://th.bing.com/th/id/OIG3.FkKHhsIC1VkN3rTXClc1?pid=ImgGn" alt="img1" style="width: 200px; height: 200px; border: 2px solid black;">
 </p>
 
