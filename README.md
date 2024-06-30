@@ -33,4 +33,4 @@ mi-proyecto/
 - [Problema](Archivos/Problema.md)
 
 ## Enlace a PPT
-- [Link PPT] (https://docs.google.com/presentation/d/1YKYSarTqhjWqdGHxFjG_4fpcGZwIoE9ebR6TVDEfErg/edit#slide=id.p)
+- [Link PPT](https://docs.google.com/presentation/d/1YKYSarTqhjWqdGHxFjG_4fpcGZwIoE9ebR6TVDEfErg/edit#slide=id.p)
