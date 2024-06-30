@@ -19,18 +19,14 @@ Desarrollar e implementar un modelo de ML que pronostique a los clientes que ten
 
 mi-proyecto/
 - README.md
-- Archivos/
-  - introduccion.md
-  - Analisis.md
-  - Problema.md
+- EleccionProblema.md
+
 
 
 
 ## Enlaces a los archivos Markdown
 
-- [Introducción](Archivos/introduccion.md)
-- [Analisis](Archivos/Analisis.md)
-- [Problema](Archivos/Problema.md)
+- [Elección del Problema](EleccionProblema.md)
 
 ## Enlace a PPT
 - [Link PPT](https://docs.google.com/presentation/d/1YKYSarTqhjWqdGHxFjG_4fpcGZwIoE9ebR6TVDEfErg/edit#slide=id.p)
