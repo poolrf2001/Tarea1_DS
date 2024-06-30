@@ -31,3 +31,6 @@ mi-proyecto/
 - [Introducción](Archivos/introduccion.md)
 - [Analisis](Archivos/Analisis.md)
 - [Problema](Archivos/Problema.md)
+
+## Enlace a PPT
+- [Link PPT] (https://docs.google.com/presentation/d/1YKYSarTqhjWqdGHxFjG_4fpcGZwIoE9ebR6TVDEfErg/edit#slide=id.p)
