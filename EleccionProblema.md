@@ -10,21 +10,19 @@ La industria elegida es la de Finanzas
   <tr>
     <th>Categoría</th>
     <th>Caso de uso</th>
-    <th>Decisión</th>
   </tr>
   <tr>
     <td>Detección de Migración de clientes</td>
     <td>Predicción de migración de buenos clientes debido a compra de deuda por competidores</td>
-    <td>Ofertas más atractivas: Ampliación de créditos y/o Reducción de tasa de interés</td>
   </tr>
 </table>
 
 ### Soporte
 
-1. Son considerados buenos clientes aquellos que: 
-2. En los últimos 12 meses tuvieron un pago puntual
-3. No tienen creditos castigados
-4. Son exclusivos, es decir, solo pertenecen a nuestra entidad financiera.
+Son considerados buenos clientes aquellos que: 
+1. En los últimos 12 meses tuvieron un pago puntual
+2. No tienen creditos castigados
+3. Son exclusivos, es decir, solo pertenecen a nuestra entidad financiera.
 
 ****
 
