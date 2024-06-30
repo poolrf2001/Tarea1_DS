@@ -17,9 +17,12 @@ Desarrollar e implementar un modelo de ML que pronostique a los clientes que ten
 
 ## Estructura de las carpetas
 
-mi-proyecto/
+Tarea1_DS/
 - README.md
 - EleccionProblema.md
+- Aproblema.md
+- Propuesta.md
+
 
 
 
@@ -27,6 +30,9 @@ mi-proyecto/
 ## Enlaces a los archivos Markdown
 
 - [Elección del Problema](EleccionProblema.md)
+- [Análisis problema](Aproblema.md)
+- [Propuesta del caso de negocio](Propuesta.md)
+
 
 ## Enlace a PPT
 - [Link PPT](https://docs.google.com/presentation/d/1YKYSarTqhjWqdGHxFjG_4fpcGZwIoE9ebR6TVDEfErg/edit#slide=id.p)
